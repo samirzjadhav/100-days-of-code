@@ -25,3 +25,18 @@ On  https://flexboxfroggy.com you can help tiny froggy get home and test your fl
 **Link(s) to work**
 - [flexbox forggy](https://flexboxfroggy.com/)
 - [flexbox skill](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
+
+  
+### Day 2: April 28 2022, Thursday
+
+**Today's Progress**: Today I created a landing page for a travel agency with little sprinkle of css animations.
+It was really fun to take design and convert it to code and see it match with the design.
+On a side note I also learned about the history of the internet and how the internet works which was interesting, I learned a lot of things I never knew or thought of before.
+
+**Thoughts**: Converting designs to code was really fun experience, I'm planning to do more of these going forward.
+
+**Link(s) to work**:
+- [live](https://travel-agency-landing-page-ebon.vercel.app/)
+- [source](https://github.com/samirzjadhav/travel-agency-landing-page)
+- [designs](https://dribbble.com/shots/17715259-Hilling-Travel-Agency-Landing-Page/attachments/12876673?mode=media)
+- [how does the internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
