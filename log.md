@@ -40,3 +40,16 @@ On a side note I also learned about the history of the internet and how the inte
 - [source](https://github.com/samirzjadhav/travel-agency-landing-page)
 - [designs](https://dribbble.com/shots/17715259-Hilling-Travel-Agency-Landing-Page/attachments/12876673?mode=media)
 - [how does the internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
+
+
+
+### Day 3: April 29 2022, Friday
+
+**Today's Progress**: I'm working on portfolio website for Toha Heftiba who is lifestyle photographer. I only managed to complete the navbar and hero section.
+
+**Thoughts**: I'm still not confident in flexbox so I'll be practicing a lot more making sure there's no gap in my knowledge.
+
+**Link(s) to work**:
+- [live](https://portfolio-page-navy.vercel.app/)
+- [source](https://github.com/samirzjadhav/portfolio-page)
+
