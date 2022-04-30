@@ -53,3 +53,15 @@ On a side note I also learned about the history of the internet and how the inte
 - [live](https://portfolio-page-navy.vercel.app/)
 - [source](https://github.com/samirzjadhav/portfolio-page)
 
+
+### Day 4: April 30 2022, saturday
+
+**Today's Progress**: Today I completed about me section of the portfolio website I'm working on.
+
+**Thoughts**: Tommarow I will be working on gallery section.
+
+ 
+**Link(s) to work**:
+- [live](https://portfolio-page-navy.vercel.app/)
+- [source](https://github.com/samirzjadhav/portfolio-page)
+
