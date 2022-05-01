@@ -56,7 +56,7 @@ On a side note I also learned about the history of the internet and how the inte
 
 ### Day 4: April 30 2022, saturday
 
-**Today's Progress**: Today I completed about me section of the portfolio website I'm working on.
+**Today's Progress**: Today I completed about me section of the portfolio website I'm working on. I spent a lot of times adjusting the layout to get the desired result but kind of happy with how it turned out.
 
 **Thoughts**: Tommarow I will be working on gallery section.
 
@@ -64,4 +64,16 @@ On a side note I also learned about the history of the internet and how the inte
 **Link(s) to work**:
 - [live](https://portfolio-page-navy.vercel.app/)
 - [source](https://github.com/samirzjadhav/portfolio-page)
+
+
+### Day 5: May 1 2022, Sunday
+
+**Today's Progress**: Today I built a landing page for an imaginary app. I also learned about CSS functions which I applied in this project.
+
+**Thoughts**: There's so much I need to learn. I am excited for more amazing css and html things I will build.
+
+ 
+**Link(s) to work**:
+- [live](https://app-landing-page-topaz.vercel.app/)
+- [source](https://github.com/samirzjadhav/app-landing-page)
 
