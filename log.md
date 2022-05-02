@@ -77,3 +77,12 @@ On a side note I also learned about the history of the internet and how the inte
 - [live](https://app-landing-page-topaz.vercel.app/)
 - [source](https://github.com/samirzjadhav/app-landing-page)
 
+### Day 6: May 2 2022, Monday
+
+**Today's Progress**: Today  I spent my time diving deep into the fundamentals of css.
+
+**Thoughts**: I am planning to solely focus on learning more about css in upcoming weeks.
+
+ 
+
+
