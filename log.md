@@ -83,6 +83,12 @@ On a side note I also learned about the history of the internet and how the inte
 
 **Thoughts**: I am planning to solely focus on learning more about css in upcoming weeks.
 
+### Day 7: May 3 2022, Tuesday
+
+**Today's Progress**:Today I learned about the fundamentals of CSS. I learned about box-model, box-sizing, inheritance of CSS specificity, and how to calculate specificity.
+
+**Thoughts**: The idea is to understand CSS really well so that I don't have to wonder why things are behaving the way they are.
+
  
 
 
