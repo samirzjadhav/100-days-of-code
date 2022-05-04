@@ -89,6 +89,12 @@ On a side note I also learned about the history of the internet and how the inte
 
 **Thoughts**: The idea is to understand CSS really well so that I don't have to wonder why things are behaving the way they are.
 
+### Day 8: May 4 2022,Wednesday
+
+**Today's Progress**: Continuing to learn CSS, today I learned about how different browsers affect styles. I also learned how setting explicit width/height affect different things and for instance where min/max width/height is what we should use.
+
+**Thoughts**: There's so much I need to learn. I am excited for more amazing css and html.
+
  
 
 
