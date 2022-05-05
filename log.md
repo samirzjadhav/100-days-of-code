@@ -89,11 +89,19 @@ On a side note I also learned about the history of the internet and how the inte
 
 **Thoughts**: The idea is to understand CSS really well so that I don't have to wonder why things are behaving the way they are.
 
-### Day 8: May 4 2022,Wednesday
+### Day 8: May 4 2022, Wednesday
 
 **Today's Progress**: Continuing to learn CSS, today I learned about how different browsers affect styles. I also learned how setting explicit width/height affect different things and for instance where min/max width/height is what we should use.
 
 **Thoughts**: There's so much I need to learn. I am excited for more amazing css and html.
+
+### Day 9: May 5 2022, Thursday
+
+**Today's Progress**: Day 9 of #100DaysOfCode. Today I learned about the effect of importance and origin on CSS specificity,  order of appearance, and how to calculate specificity.
+
+I create a one-page web to practice and learn more about the above things.
+
+**Thoughts**: I'm able to consistently learn and practice more about CSS I want to keep this up.
 
  
 
