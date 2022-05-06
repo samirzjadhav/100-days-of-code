@@ -97,11 +97,17 @@ On a side note I also learned about the history of the internet and how the inte
 
 ### Day 9: May 5 2022, Thursday
 
-**Today's Progress**: Day 9 of #100DaysOfCode. Today I learned about the effect of importance and origin on CSS specificity,  order of appearance, and how to calculate specificity.
+**Today's Progress**: Today I learned about the effect of importance and origin on CSS specificity,  order of appearance, and how to calculate specificity.
 
 I create a one-page web to practice and learn more about the above things.
 
 **Thoughts**: I'm able to consistently learn and practice more about CSS I want to keep this up.
+
+### Day 10: May 6 2022, Friday
+
+**Today's Progress**: Today I learned about various CSS class naming conventions, pseudo-classes, and a little about responsive web design.
+
+**Thoughts**: I will apply everything I learned today by building something.
 
  
 
