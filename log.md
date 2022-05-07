@@ -109,6 +109,12 @@ I create a one-page web to practice and learn more about the above things.
 
 **Thoughts**: I will apply everything I learned today by building something.
 
+### Day 11: May 7 2022, Saturday
+
+**Today's Progress**: Today I applied everything I've been learning for the past week and created this pricing page. I've used BEM organizing styles and focused on making code readable and organized. 
+
+
+
  
 
 
