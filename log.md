@@ -113,6 +113,16 @@ I create a one-page web to practice and learn more about the above things.
 
 **Today's Progress**: Today I applied everything I've been learning for the past week and created this pricing page. I've used BEM organizing styles and focused on making code readable and organized. 
 
+**Thoughts**: I learned more thing about css and html. amd appling everything in building something.
+
+### Day 12: May 8 2022, Sunday
+
+**Today's Progress**: Today I created a team section of the pricing card. I also learned about special flex properties like flex-wrap, shrink, grow, order, etc. 
+
+
+
+
+
 
 
  
