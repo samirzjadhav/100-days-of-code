@@ -126,6 +126,18 @@ I create a one-page web to practice and learn more about the above things.
 
 **Thoughts**: I learned more thing about css like css variabe. flex-order and mirror. 
 
+### Day 14: May 10 2022, Tuesday
+**Today's Progress**: Day 14 of #100Dayofcode. Today I learned about media queries and Made the pricing page project responsive.
+
+**Thoughts**: I learned more awesome thing about css properties like media queries.
+
+- [source](https://github.com/samirzjadhav/pricing-card)
+
+- [live](https://pricing-card-five.vercel.app)
+- [MDN media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+
+
 
 
 
