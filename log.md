@@ -137,9 +137,24 @@ I create a one-page web to practice and learn more about the above things.
 - [MDN media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 
+### Day 15: May 11 2022, Wednesday
+**Today's Progress**:  Today I dove deeper into CSS media queries.
+Did you know that you could adjust layouts for different device orientations using media queries?Today I created Upwork like the hire-us page. 
+
+
+### Day 16: May 12 2022, Thursday
+**Today's Progress**: Today I created Upwork like the hire-us page. 
+I also learned lots of interesting things about CSS grids and variables.
 
 
 
+### Day 17: May 13 2022, Friday
+**Today's Progress**: Today I created a landing page for an online course.
+I also dove deep into various display properties - flex, grid, inline, block, flow-root, and how it affects child elements.
+
+[source](https://github.com/samirzjadhav/online-course-landing-page)
+
+[live](https://online-course-landing-page.vercel.app)
 
 
 
