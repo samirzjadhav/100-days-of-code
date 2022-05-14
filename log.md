@@ -157,6 +157,12 @@ I also dove deep into various display properties - flex, grid, inline, block, fl
 [live](https://online-course-landing-page.vercel.app)
 
 
+### Day 18: May 14 2022, Saturday
+**Today's Progress**: Today I completed the magic course landing page and used lots of interesting concepts like pseudo-classes, media queries, inline-block, etc.
+
+[Source](https://github.com/samirzjadhav/magic-course-landing-page)
+
+[Live](https://magic-course-landing-page.vercel.app)
 
 
  
