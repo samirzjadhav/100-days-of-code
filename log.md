@@ -164,6 +164,9 @@ I also dove deep into various display properties - flex, grid, inline, block, fl
 
 [Live](https://magic-course-landing-page.vercel.app)
 
+### Day 19: May 15 2022, Sunday
+**Today's Progress**: Today I learned about CSS position properties and stacking layouts. I experimented by creating a page with lots and lots of boxes and changing position properties and seeing how it affects boxes.
+
 
  
 
