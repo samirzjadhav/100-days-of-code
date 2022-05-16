@@ -167,6 +167,13 @@ I also dove deep into various display properties - flex, grid, inline, block, fl
 ### Day 19: May 15 2022, Sunday
 **Today's Progress**: Today I learned about CSS position properties and stacking layouts. I experimented by creating a page with lots and lots of boxes and changing position properties and seeing how it affects boxes.
 
+### Day 20: May 16 2022, Monday
+**Today's Progress**: Today I added a navigation bar to a magic course landing page.
+I also fixed the issue with the header image position and made some parts responsive which were not already.
+
+[demo](https://magic-course-landing-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/magic-course-landing-page)
 
  
 
