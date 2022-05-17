@@ -177,4 +177,10 @@ I also fixed the issue with the header image position and made some parts respon
 
  
 
+### Day 21: May 17 2022, Tuesday
+**Today's Progress**:Today I added a testimonial section on a magic course landing page.
+I also learned about nth-of-type, background-blend-mode CSS properties.
 
+[demo](https://magic-course-landing-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/magic-course-landing-page)
