@@ -188,3 +188,9 @@ I also learned about nth-of-type, background-blend-mode CSS properties.
 ### Day 22: May 18 2022, Wednesday
 **Today's Progress**: Today I revisited a few things in CSS like specificity, animations, and transitions.
 Now taking a tiny break from learning about CSS and focusing fully on building a secret project. :D
+
+
+### Day 23: May 19 2022, Thursday
+**Today's Progress**:
+Today I worked on the layout and styling of the secret landing page I'm working on.
+Will be working on the final touchups tomorrow, then making it responsive and animations. Lots of things to do.
