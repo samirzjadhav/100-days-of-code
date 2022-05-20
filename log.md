@@ -194,3 +194,6 @@ Now taking a tiny break from learning about CSS and focusing fully on building a
 **Today's Progress**:
 Today I worked on the layout and styling of the secret landing page I'm working on.
 Will be working on the final touchups tomorrow, then making it responsive and animations. Lots of things to do.
+
+### Day 24: May 20 2022, Friday
+**Today's Progress**: Today I completed working on the layout of the game store page. It was fun getting this layout together and working with svgs. I utilized properties like flex-wrap and CSS functions. 
