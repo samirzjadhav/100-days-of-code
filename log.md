@@ -197,3 +197,7 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 
 ### Day 24: May 20 2022, Friday
 **Today's Progress**: Today I completed working on the layout of the game store page. It was fun getting this layout together and working with svgs. I utilized properties like flex-wrap and CSS functions. 
+
+
+### Day 25: May 21 2022, Saturday
+**Today's Progress**: Today worked on the game store landing page hero image and image card responsive. and learned about some basic syntax in javascript.
