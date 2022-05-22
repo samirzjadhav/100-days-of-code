@@ -201,3 +201,7 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 
 ### Day 25: May 21 2022, Saturday
 **Today's Progress**: Today worked on the game store landing page hero image and image card responsive. and learned about some basic syntax in javascript.
+
+
+### Day 26: May 22 2022, Sunday
+**Today's Progress**: I decided to take a short break from CSS and learn javascript. I'm following eloquentjavascript.net which is detailed with lots of great examples. I learned about values, types, and operators. :D 
