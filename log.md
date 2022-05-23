@@ -205,3 +205,6 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 
 ### Day 26: May 22 2022, Sunday
 **Today's Progress**: I decided to take a short break from CSS and learn javascript. I'm following eloquentjavascript.net which is detailed with lots of great examples. I learned about values, types, and operators. :D 
+
+### Day 27: May 23 2022, Monday
+**Today's Progress**:  Today I learned about javascript data types, arrays, operators, code structure & variables.
