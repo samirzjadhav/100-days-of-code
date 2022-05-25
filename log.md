@@ -175,8 +175,6 @@ I also fixed the issue with the header image position and made some parts respon
 
 [source](https://github.com/samirzjadhav/magic-course-landing-page)
 
- 
-
 ### Day 21: May 17 2022, Tuesday
 **Today's Progress**: Today I added a testimonial section on a magic course landing page.
 I also learned about nth-of-type, background-blend-mode CSS properties.
@@ -188,7 +186,6 @@ I also learned about nth-of-type, background-blend-mode CSS properties.
 ### Day 22: May 18 2022, Wednesday
 **Today's Progress**: Today I revisited a few things in CSS like specificity, animations, and transitions.
 Now taking a tiny break from learning about CSS and focusing fully on building a secret project. :D
-
 
 ### Day 23: May 19 2022, Thursday
 **Today's Progress**:
@@ -211,3 +208,6 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 
 ### Day 28: May 24 2022, Tuesday
 **Today's Progress**:Today I worked on adding animations to the game store page, and also learned more about advanced javascript types like arrays and objects.
+
+### Day 29: May 25 2022, Wednesday
+**Today's Progress**: Today I worked on a http://freecodecamp.com survey form project from a responsive web design. one step closer to getting that certification.
