@@ -211,3 +211,7 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 
 ### Day 29: May 25 2022, Wednesday
 **Today's Progress**: Today I worked on a http://freecodecamp.com survey form project from a responsive web design. one step closer to getting that certification.
+
+### Day 30: May 26 2022, Thursday
+**Today's Progress**:Today I worked on and completed a survey form project from the responsive web design @freecodecamp course.
+I was done with HTML and structure yesterday so spent most of my time today taking care of the styling.
