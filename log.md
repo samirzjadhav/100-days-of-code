@@ -219,3 +219,10 @@ I was done with HTML and structure yesterday so spent most of my time today taki
 ### Day 31: May 27 2022, Thursday
 **Today's Progress**: Today I learned about the co-relation between layout and content and how one affects the other. Learned about style reusability and thinking of layout styles as plug and play lego pieces.
 Also learned about flex-basis, flex-shrink and flex-grow properties in deep
+
+### Day 32: May 28 2022, Friday 
+**Today's Progress**: Day 32 of #100DaysOfCode . Today I created a page to experiment with different content and layouts. And how each of them affects each other and the relation between various types of content and layout.
+
+[source](https://github.com/samirzjadhav/layout-and-content-experimentation)
+
+[live](https://layout-and-content-experimentation.vercel.app)
