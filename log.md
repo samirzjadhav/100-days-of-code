@@ -226,3 +226,7 @@ Also learned about flex-basis, flex-shrink and flex-grow properties in deep
 [source](https://github.com/samirzjadhav/layout-and-content-experimentation)
 
 [live](https://layout-and-content-experimentation.vercel.app)
+
+### Day 33: May 29 2022, saturday 
+**Today's Progress**: Today I created a simple blog using HTML and CSS.
+I tried to follow all best practices and conventions.
