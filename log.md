@@ -216,17 +216,23 @@ Will be working on the final touchups tomorrow, then making it responsive and an
 **Today's Progress**:Today I worked on and completed a survey form project from the responsive web design @freecodecamp course.
 I was done with HTML and structure yesterday so spent most of my time today taking care of the styling.
 
-### Day 31: May 27 2022, Thursday
+### Day 31: May 27 2022, Friday
 **Today's Progress**: Today I learned about the co-relation between layout and content and how one affects the other. Learned about style reusability and thinking of layout styles as plug and play lego pieces.
 Also learned about flex-basis, flex-shrink and flex-grow properties in deep
 
-### Day 32: May 28 2022, Friday 
+### Day 32: May 28 2022, Saturday
 **Today's Progress**: Today I created a page to experiment with different content and layouts. And how each of them affects each other and the relation between various types of content and layout.
 
 [source](https://github.com/samirzjadhav/layout-and-content-experimentation)
 
 [live](https://layout-and-content-experimentation.vercel.app)
 
-### Day 33: May 29 2022, saturday 
+### Day 33: May 29 2022, Sunday 
 **Today's Progress**: Today I created a simple blog using HTML and CSS.
 I tried to follow all best practices and conventions.
+
+### Day 34: May 30 2022, Monday 
+**Today's Progress**: Today I continued working on a blog project and made it responsive. I tried following proper CSS naming conventions.
+
+[live](https://course-blog-page.vercel.app)
+[source](https://github.com/samirzjadhav/course-blog-page)
