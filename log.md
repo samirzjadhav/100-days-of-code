@@ -246,7 +246,7 @@ I tried to follow all best practices and conventions.
 [source](https://github.com/samirzjadhav/course-blog-page)
 
 
-### Day 35: june  2022, saturday 
+### Day 35: june 4 2022, saturday 
 **Today's Progress**: Today I  added a hero image on the blog page and home page also fixed the page title position and updated the styles for navigation on the blog page website.  
 
 [live](https://course-blog-page.vercel.app)
