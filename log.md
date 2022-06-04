@@ -235,4 +235,15 @@ I tried to follow all best practices and conventions.
 **Today's Progress**: Today I continued working on a blog project and made it responsive. I tried following proper CSS naming conventions.
 
 [live](https://course-blog-page.vercel.app)
+
 [source](https://github.com/samirzjadhav/course-blog-page)
+
+### Day 35: june 3 2022, Friday 
+**Today's Progress**: Today I worked on the footer section of the blog page I'm working on. 
+
+[live](https://course-blog-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/course-blog-page)
+
+
+
