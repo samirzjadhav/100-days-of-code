@@ -246,16 +246,26 @@ I tried to follow all best practices and conventions.
 [source](https://github.com/samirzjadhav/course-blog-page)
 
 
-### Day 36: june 4 2022, saturday 
+### Day 36: june 4 2022, Saturday 
 **Today's Progress**: Today I  added a hero image on the blog page and home page also fixed the page title position and updated the styles for navigation on the blog page website.  
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
-### Day 37: june 4 2022, saturday 
+### Day 37: june 4 2022, Sunday 
 **Today's Progress**: Today I made the article section of the blog page I'm working on responsive by using grid and media queries.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
+
+
+### Day 38: june 4 2022, Monday 
+**Today's Progress**:
+Day 38 of #100DaysOfCode . Today I worked on the article section of the blog page where users can go and read the whole article. I also made some changes where the first post shows differently than others.
+
+[live](https://course-blog-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/course-blog-page)
+
