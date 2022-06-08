@@ -253,7 +253,7 @@ I tried to follow all best practices and conventions.
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
-### Day 37: june 4 2022, Sunday 
+### Day 37: june 5 2022, Sunday 
 **Today's Progress**: Today I made the article section of the blog page I'm working on responsive by using grid and media queries.
 
 [live](https://course-blog-page.vercel.app)
@@ -261,9 +261,23 @@ I tried to follow all best practices and conventions.
 [source](https://github.com/samirzjadhav/course-blog-page)
 
 
-### Day 38: june 4 2022, Monday 
-**Today's Progress**:
-Day 38 of #100DaysOfCode . Today I worked on the article section of the blog page where users can go and read the whole article. I also made some changes where the first post shows differently than others.
+### Day 38: june 6 2022, Monday 
+**Today's Progress**: Today I worked on the article section of the blog page where users can go and read the whole article. I also made some changes where the first post shows differently than others.
+
+[live](https://course-blog-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/course-blog-page)
+
+### Day 39: june 7 2022, Tuesday 
+**Today's Progress**:Today I worked on the game store landing page to fix some issues with the image and card section and made the categories section responsive. Also worked on a blog page to add basic animations.
+
+[live](https://course-blog-page.vercel.app)
+
+[source](https://github.com/samirzjadhav/course-blog-page)
+
+### Day 40: june 8 2022, Wednesday
+**Today's Progress**:Today I worked on a blog page and add links and some animation and also fix some issues about the navbar position in mobile view.
+
 
 [live](https://course-blog-page.vercel.app)
 
