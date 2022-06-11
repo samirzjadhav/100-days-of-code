@@ -289,4 +289,5 @@ I tried to follow all best practices and conventions.
 
 
 ### Day 42: june 10 2022, Friday
-**Today's Progress**: Day 42 of #100DaysOfCode . Today I learned about accessibility mainly correct semantics and how important proper color and contrast are.
+**Today's Progress**: Today I learned about accessibility mainly correct semantics and how important proper color and contrast are.
+
