@@ -291,7 +291,10 @@ I tried to follow all best practices and conventions.
 ### Day 42: june 10 2022, Friday
 **Today's Progress**: Today I learned about accessibility mainly correct semantics and how important proper color and contrast are.
 
-### Day 43: june 12 2022, sunday
+### Day 43: june 12 2022, Sunday
 **Today's Progress**: Today I practiced CSS flex and grid trying to recreate complex layouts from scratch.
 Plan ahead is to create a few real-world projects once I feel comfortable with my CSS, will be learning tailwindcss and creating more projects with it.
 
+### Day 44: june 13 2022, Monday
+**Today's Progress**: Today I started working on a new project which is another blog page.
+I also started working on project 3 from freecodecamp responsive web design course which is a product landing page.
