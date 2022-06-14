@@ -298,3 +298,7 @@ Plan ahead is to create a few real-world projects once I feel comfortable with m
 ### Day 44: june 13 2022, Monday
 **Today's Progress**: Today I started working on a new project which is another blog page.
 I also started working on project 3 from freecodecamp responsive web design course which is a product landing page.
+
+### Day 45: june 14 2022, Tuesday
+**Today's Progress**: Today I created a layout for the product landing page from @freeCodeCamp responsive web design.
+I also started learning tailwind CSS which seems really fun.
