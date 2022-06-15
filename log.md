@@ -7,26 +7,25 @@
 **Thoughts**: I got to apply everything that I learned and see how everything fits together. I faced difficulty when trying to use grid so I'll spend more time tomorrow reading mdn docs about it and practicing more.
 
 **Link(s) to work**
+
 - [live](http://fcc-tribute-page-mu.vercel.app/)
 - [source](https://github.com/samirzjadhav/fcc-tribute-page)
 - [issues](https://github.com/samirzjadhav/fcc-tribute-page/issues?q=is%3Aissue+is%3Aclosed)
 - [pull requests](https://github.com/samirzjadhav/fcc-tribute-page/pulls?q=is%3Apr+is%3Aclosed)
-  
-
 
 ### Day 1: April 27 2022, Wednesday
 
 **Today's Progress**: I learned about flexbox today.
 I also really enjoyed completing challenges to test my learnings.
-On  https://flexboxfroggy.com you can help tiny froggy get home and test your flexbox skills as well.
+On https://flexboxfroggy.com you can help tiny froggy get home and test your flexbox skills as well.
 
 **Thoughts**: I faced difficulty in some of the flex properties like flex-basis, flex-shrinks and order. I'm still not confident in my knowledge of flex-box. That means I need more practics.
 
 **Link(s) to work**
+
 - [flexbox forggy](https://flexboxfroggy.com/)
 - [flexbox skill](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
 
-  
 ### Day 2: April 28 2022, Thursday
 
 **Today's Progress**: Today I created a landing page for a travel agency with little sprinkle of css animations.
@@ -36,12 +35,11 @@ On a side note I also learned about the history of the internet and how the inte
 **Thoughts**: Converting designs to code was really fun experience, I'm planning to do more of these going forward.
 
 **Link(s) to work**:
+
 - [live](https://travel-agency-landing-page-ebon.vercel.app/)
 - [source](https://github.com/samirzjadhav/travel-agency-landing-page)
 - [designs](https://dribbble.com/shots/17715259-Hilling-Travel-Agency-Landing-Page/attachments/12876673?mode=media)
 - [how does the internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
-
-
 
 ### Day 3: April 29 2022, Friday
 
@@ -50,9 +48,9 @@ On a side note I also learned about the history of the internet and how the inte
 **Thoughts**: I'm still not confident in flexbox so I'll be practicing a lot more making sure there's no gap in my knowledge.
 
 **Link(s) to work**:
+
 - [live](https://portfolio-page-navy.vercel.app/)
 - [source](https://github.com/samirzjadhav/portfolio-page)
-
 
 ### Day 4: April 30 2022, saturday
 
@@ -60,11 +58,10 @@ On a side note I also learned about the history of the internet and how the inte
 
 **Thoughts**: Tommarow I will be working on gallery section.
 
- 
 **Link(s) to work**:
+
 - [live](https://portfolio-page-navy.vercel.app/)
 - [source](https://github.com/samirzjadhav/portfolio-page)
-
 
 ### Day 5: May 1 2022, Sunday
 
@@ -72,14 +69,14 @@ On a side note I also learned about the history of the internet and how the inte
 
 **Thoughts**: There's so much I need to learn. I am excited for more amazing css and html things I will build.
 
- 
 **Link(s) to work**:
+
 - [live](https://app-landing-page-topaz.vercel.app/)
 - [source](https://github.com/samirzjadhav/app-landing-page)
 
 ### Day 6: May 2 2022, Monday
 
-**Today's Progress**: Today  I spent my time diving deep into the fundamentals of css.
+**Today's Progress**: Today I spent my time diving deep into the fundamentals of css.
 
 **Thoughts**: I am planning to solely focus on learning more about css in upcoming weeks.
 
@@ -97,7 +94,7 @@ On a side note I also learned about the history of the internet and how the inte
 
 ### Day 9: May 5 2022, Thursday
 
-**Today's Progress**: Today I learned about the effect of importance and origin on CSS specificity,  order of appearance, and how to calculate specificity.
+**Today's Progress**: Today I learned about the effect of importance and origin on CSS specificity, order of appearance, and how to calculate specificity.
 
 I create a one-page web to practice and learn more about the above things.
 
@@ -111,22 +108,24 @@ I create a one-page web to practice and learn more about the above things.
 
 ### Day 11: May 7 2022, Saturday
 
-**Today's Progress**: Today I applied everything I've been learning for the past week and created this pricing page. I've used BEM organizing styles and focused on making code readable and organized. 
+**Today's Progress**: Today I applied everything I've been learning for the past week and created this pricing page. I've used BEM organizing styles and focused on making code readable and organized.
 
 **Thoughts**: I learned more thing about css and html. amd appling everything to build delightful website.
 
 ### Day 12: May 8 2022, Sunday
 
-**Today's Progress**: Today I created a team section of the pricing card. I also learned about special flex properties like flex-wrap, shrink, grow, order, etc. 
+**Today's Progress**: Today I created a team section of the pricing card. I also learned about special flex properties like flex-wrap, shrink, grow, order, etc.
 
 **Thoughts**: css properties are difficult. and I always confused on it.
 
 ### Day 13: May 9 2022, Monday
+
 **Today's Progress**: Today I worked on some final touchups for the pricing page team section. I applied some things I learned earlier last week like CSS variables, and flex-order to mirror the look of cards.
 
-**Thoughts**: I learned more thing about css like css variabe. flex-order and mirror. 
+**Thoughts**: I learned more thing about css like css variabe. flex-order and mirror.
 
 ### Day 14: May 10 2022, Tuesday
+
 **Today's Progress**: Day 14 of #100Dayofcode. Today I learned about media queries and Made the pricing page project responsive.
 
 **Thoughts**: I learned more awesome thing about css properties like media queries.
@@ -136,19 +135,18 @@ I create a one-page web to practice and learn more about the above things.
 - [live](https://pricing-card-five.vercel.app)
 - [MDN media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-
 ### Day 15: May 11 2022, Wednesday
-**Today's Progress**:  Today I dove deeper into CSS media queries.
-Did you know that you could adjust layouts for different device orientations using media queries?Today I created Upwork like the hire-us page. 
 
+**Today's Progress**: Today I dove deeper into CSS media queries.
+Did you know that you could adjust layouts for different device orientations using media queries?Today I created Upwork like the hire-us page.
 
 ### Day 16: May 12 2022, Thursday
-**Today's Progress**: Today I created Upwork like the hire-us page. 
+
+**Today's Progress**: Today I created Upwork like the hire-us page.
 I also learned lots of interesting things about CSS grids and variables.
 
-
-
 ### Day 17: May 13 2022, Friday
+
 **Today's Progress**: Today I created a landing page for an online course.
 I also dove deep into various display properties - flex, grid, inline, block, flow-root, and how it affects child elements.
 
@@ -156,8 +154,8 @@ I also dove deep into various display properties - flex, grid, inline, block, fl
 
 [live](https://online-course-landing-page.vercel.app)
 
-
 ### Day 18: May 14 2022, Saturday
+
 **Today's Progress**: Today I completed the magic course landing page and used lots of interesting concepts like pseudo-classes, media queries, inline-block, etc.
 
 [Source](https://github.com/samirzjadhav/magic-course-landing-page)
@@ -165,9 +163,11 @@ I also dove deep into various display properties - flex, grid, inline, block, fl
 [Live](https://magic-course-landing-page.vercel.app)
 
 ### Day 19: May 15 2022, Sunday
+
 **Today's Progress**: Today I learned about CSS position properties and stacking layouts. I experimented by creating a page with lots and lots of boxes and changing position properties and seeing how it affects boxes.
 
 ### Day 20: May 16 2022, Monday
+
 **Today's Progress**: Today I added a navigation bar to a magic course landing page.
 I also fixed the issue with the header image position and made some parts responsive which were not already.
 
@@ -176,6 +176,7 @@ I also fixed the issue with the header image position and made some parts respon
 [source](https://github.com/samirzjadhav/magic-course-landing-page)
 
 ### Day 21: May 17 2022, Tuesday
+
 **Today's Progress**: Today I added a testimonial section on a magic course landing page.
 I also learned about nth-of-type, background-blend-mode CSS properties.
 
@@ -184,91 +185,105 @@ I also learned about nth-of-type, background-blend-mode CSS properties.
 [source](https://github.com/samirzjadhav/magic-course-landing-page)
 
 ### Day 22: May 18 2022, Wednesday
+
 **Today's Progress**: Today I revisited a few things in CSS like specificity, animations, and transitions.
 Now taking a tiny break from learning about CSS and focusing fully on building a secret project. :D
 
 ### Day 23: May 19 2022, Thursday
+
 **Today's Progress**:
 Today I worked on the layout and styling of the secret landing page I'm working on.
 Will be working on the final touchups tomorrow, then making it responsive and animations. Lots of things to do.
 
 ### Day 24: May 20 2022, Friday
-**Today's Progress**: Today I completed working on the layout of the game store page. It was fun getting this layout together and working with svgs. I utilized properties like flex-wrap and CSS functions. 
 
+**Today's Progress**: Today I completed working on the layout of the game store page. It was fun getting this layout together and working with svgs. I utilized properties like flex-wrap and CSS functions.
 
 ### Day 25: May 21 2022, Saturday
+
 **Today's Progress**: Today worked on the game store landing page hero image and image card responsive. and learned about some basic syntax in javascript.
 
-
 ### Day 26: May 22 2022, Sunday
-**Today's Progress**: I decided to take a short break from CSS and learn javascript. I'm following eloquentjavascript.net which is detailed with lots of great examples. I learned about values, types, and operators. :D 
+
+**Today's Progress**: I decided to take a short break from CSS and learn javascript. I'm following eloquentjavascript.net which is detailed with lots of great examples. I learned about values, types, and operators. :D
 
 ### Day 27: May 23 2022, Monday
-**Today's Progress**:  Today I learned about javascript data types, arrays, operators, code structure & variables.
+
+**Today's Progress**: Today I learned about javascript data types, arrays, operators, code structure & variables.
 
 ### Day 28: May 24 2022, Tuesday
+
 **Today's Progress**:Today I worked on adding animations to the game store page, and also learned more about advanced javascript types like arrays and objects.
 
 ### Day 29: May 25 2022, Wednesday
+
 **Today's Progress**: Today I worked on a http://freecodecamp.com survey form project from a responsive web design. one step closer to getting that certification.
 
 ### Day 30: May 26 2022, Thursday
+
 **Today's Progress**:Today I worked on and completed a survey form project from the responsive web design @freecodecamp course.
 I was done with HTML and structure yesterday so spent most of my time today taking care of the styling.
 
 ### Day 31: May 27 2022, Friday
+
 **Today's Progress**: Today I learned about the co-relation between layout and content and how one affects the other. Learned about style reusability and thinking of layout styles as plug and play lego pieces.
 Also learned about flex-basis, flex-shrink and flex-grow properties in deep
 
 ### Day 32: May 28 2022, Saturday
+
 **Today's Progress**: Today I created a page to experiment with different content and layouts. And how each of them affects each other and the relation between various types of content and layout.
 
 [source](https://github.com/samirzjadhav/layout-and-content-experimentation)
 
 [live](https://layout-and-content-experimentation.vercel.app)
 
-### Day 33: May 29 2022, Sunday 
+### Day 33: May 29 2022, Sunday
+
 **Today's Progress**: Today I created a simple blog using HTML and CSS.
 I tried to follow all best practices and conventions.
 
-### Day 34: May 30 2022, Monday 
+### Day 34: May 30 2022, Monday
+
 **Today's Progress**: Today I continued working on a blog project and made it responsive. I tried following proper CSS naming conventions.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
-### Day 35: june 3 2022, Friday 
-**Today's Progress**: Today I worked on the footer section of the blog page I'm working on. 
+### Day 35: june 3 2022, Friday
+
+**Today's Progress**: Today I worked on the footer section of the blog page I'm working on.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
+### Day 36: june 4 2022, Saturday
 
-### Day 36: june 4 2022, Saturday 
-**Today's Progress**: Today I  added a hero image on the blog page and home page also fixed the page title position and updated the styles for navigation on the blog page website.  
+**Today's Progress**: Today I added a hero image on the blog page and home page also fixed the page title position and updated the styles for navigation on the blog page website.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
-### Day 37: june 5 2022, Sunday 
+### Day 37: june 5 2022, Sunday
+
 **Today's Progress**: Today I made the article section of the blog page I'm working on responsive by using grid and media queries.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
+### Day 38: june 6 2022, Monday
 
-### Day 38: june 6 2022, Monday 
 **Today's Progress**: Today I worked on the article section of the blog page where users can go and read the whole article. I also made some changes where the first post shows differently than others.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
-### Day 39: june 7 2022, Tuesday 
+### Day 39: june 7 2022, Tuesday
+
 **Today's Progress**:Today I worked on the game store landing page to fix some issues with the image and card section and made the categories section responsive. Also worked on a blog page to add basic animations.
 
 [live](https://course-blog-page.vercel.app)
@@ -276,29 +291,37 @@ I tried to follow all best practices and conventions.
 [source](https://github.com/samirzjadhav/course-blog-page)
 
 ### Day 40: june 8 2022, Wednesday
-**Today's Progress**:Today I worked on a blog page and add links and some animation and also fix some issues about the navbar position in mobile view.
 
+**Today's Progress**:Today I worked on a blog page and add links and some animation and also fix some issues about the navbar position in mobile view.
 
 [live](https://course-blog-page.vercel.app)
 
 [source](https://github.com/samirzjadhav/course-blog-page)
 
 ### Day 41: june 9 2022, Thursday
+
 **Today's Progress**:Today I complete module 4 of CSS demystified. and Learned about javascript code structure.
 
-
-
 ### Day 42: june 10 2022, Friday
+
 **Today's Progress**: Today I learned about accessibility mainly correct semantics and how important proper color and contrast are.
 
 ### Day 43: june 12 2022, Sunday
+
 **Today's Progress**: Today I practiced CSS flex and grid trying to recreate complex layouts from scratch.
 Plan ahead is to create a few real-world projects once I feel comfortable with my CSS, will be learning tailwindcss and creating more projects with it.
 
 ### Day 44: june 13 2022, Monday
+
 **Today's Progress**: Today I started working on a new project which is another blog page.
 I also started working on project 3 from freecodecamp responsive web design course which is a product landing page.
 
 ### Day 45: june 14 2022, Tuesday
+
 **Today's Progress**: Today I created a layout for the product landing page from @freeCodeCamp responsive web design.
 I also started learning tailwind CSS which seems really fun.
+
+### Day 46: june 15 2022, Wednesday
+
+**Today's Progress**:Today I worked on the chair shop landing page which is not ready to be showcased yet but soon :P
+I also realized how important knowing design is or at least the basics of design for frontend engineers so learning about design, colors, and typography as well.
