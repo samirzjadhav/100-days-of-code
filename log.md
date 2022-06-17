@@ -331,3 +331,7 @@ I also realized how important knowing design is or at least the basics of design
 **Today's Progress**:Made some progress on the chair shop landing page and got done most of the layout done.
 Still need to add icons, a logo, and some final touches but here it is.
 Also refreshed to cut back on code and focus on design.
+
+### Day 48: june 17 2022, Friday
+
+**Today's Progress**: Today I worked on the trombones landing page from the @freeCodeCamp responsive web design course.
