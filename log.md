@@ -339,3 +339,7 @@ Also refreshed to cut back on code and focus on design.
 ### Day 49: june 18 2022, Saturday
 
 **Today's Progress**: Today I completed the trombones landing page from @freecodecamp responsive web design and also worked on the chair shop landing page a little
+
+### Day 50: june 19 2022, Sunday
+
+**Today's Progress**: Today I worked on the Lisbon chair shop page and designed icons, buttons, and a testimonial section.
