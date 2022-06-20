@@ -343,3 +343,9 @@ Also refreshed to cut back on code and focus on design.
 ### Day 50: june 19 2022, Sunday
 
 **Today's Progress**: Today I worked on the Lisbon chair shop page and designed icons, buttons, and a testimonial section.
+
+### Day 51: june 20 2022, Monday
+
+**Today's Progress**:
+today I added final touches to the chair shop landing page, adding shadows and animations here and there, and adjusting image and card styles.
+There are still many code improvements I could do like switching to CSS variables for most common styles and so on.
