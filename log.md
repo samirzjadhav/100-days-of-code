@@ -346,6 +346,9 @@ Also refreshed to cut back on code and focus on design.
 
 ### Day 51: june 20 2022, Monday
 
-**Today's Progress**:
-today I added final touches to the chair shop landing page, adding shadows and animations here and there, and adjusting image and card styles.
+**Today's Progress**: Today I added final touches to the chair shop landing page, adding shadows and animations here and there, and adjusting image and card styles.
 There are still many code improvements I could do like switching to CSS variables for most common styles and so on.
+
+### Day 52: june 21 2022, Wednesday
+
+**Today's Progress**: Today I worked on improving the chair landing page I was working on. I switched to CSS variables for the most commonly used styles, and also added tiny animations to interactions.
