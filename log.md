@@ -349,6 +349,14 @@ Also refreshed to cut back on code and focus on design.
 **Today's Progress**: Today I added final touches to the chair shop landing page, adding shadows and animations here and there, and adjusting image and card styles.
 There are still many code improvements I could do like switching to CSS variables for most common styles and so on.
 
-### Day 52: june 21 2022, Wednesday
+### Day 52: june 22 2022, Wednesday
 
 **Today's Progress**: Today I worked on improving the chair landing page I was working on. I switched to CSS variables for the most commonly used styles, and also added tiny animations to interactions.
+
+### Day 53: june 23 2022, Thursday
+
+**Today's Progress**: Today I learned how to create the accordion component.
+
+[live](https://accordion-component-murex.vercel.app/)
+
+[source](https://github.com/samirzjadhav/accordion-component)
