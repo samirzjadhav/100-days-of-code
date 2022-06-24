@@ -360,3 +360,7 @@ There are still many code improvements I could do like switching to CSS variable
 [live](https://accordion-component-murex.vercel.app/)
 
 [source](https://github.com/samirzjadhav/accordion-component)
+
+### Day 54: june 24 2022, Friday
+
+**Today's Progress**:Today I learned how to build the carousel component. It still needs javascript for functionality but everything else is taken care of using only HTML and CSS.
