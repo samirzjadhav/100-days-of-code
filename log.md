@@ -364,3 +364,12 @@ There are still many code improvements I could do like switching to CSS variable
 ### Day 54: june 24 2022, Friday
 
 **Today's Progress**:Today I learned how to build the carousel component. It still needs javascript for functionality but everything else is taken care of using only HTML and CSS.
+
+### Day 55: june 26 2022, sunday
+
+**Today's Progress**:
+Today I learned how to style tables, I also discovered a new property called border-collapse which makes the table look seamless.
+
+[live](https://tabel-component.vercel.app/)
+
+[source](https://github.com/samirzjadhav/tabel-component)
