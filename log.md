@@ -376,3 +376,8 @@ There are still many code improvements I could do like switching to CSS variable
 ### Day 56: june 27 2022, sunday
 
 **Today's Progress**: Today I learned how to create a pagination component. I also learned about JavaScript classlist toggle method to toggle classes on the given component to make the pagination component interactive.
+
+### Day 57: june 28 2022, sunday
+
+**Today's Progress**: Today I started working on a landing page for a food subscription service. I worked on the hero section for it.
+Also making sure that it is mobile responsive by default.
