@@ -386,3 +386,8 @@ Also making sure that it is mobile responsive by default.
 
 **Today's Progress**:
 Today I completed the hero section for the Omni-food landing page and here's how it looks so far.
+
+### Day 59: june 30 2022, Thursday
+
+**Today's Progress**:
+I didn't get a lot of time today as I was visiting school but I did manage to work a little on the navbar section of the Omni-food project.
