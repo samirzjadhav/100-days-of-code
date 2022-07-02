@@ -391,3 +391,13 @@ Today I completed the hero section for the Omni-food landing page and here's how
 
 **Today's Progress**:
 I didn't get a lot of time today as I was visiting school but I did manage to work a little on the navbar section of the Omni-food project.
+
+### Day 60: jule 1 2022, Friday
+
+**Today's Progress**: Today I worked on the how it works section of the Omni-food project.
+I used :before & :after CSS selectors to create the backdrop for the screenshots you see :D
+
+### Day 61: jule 2 2022, Saturday
+
+**Today's Progress**:
+Today I worked on the featured in section and meals section of the Onmnifood project.
