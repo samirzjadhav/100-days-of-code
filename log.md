@@ -401,3 +401,12 @@ I used :before & :after CSS selectors to create the backdrop for the screenshots
 
 **Today's Progress**:
 Today I worked on the featured in section and meals section of the Onmnifood project.
+
+### Day 62: jule 3 2022, Sunday
+
+**Today's Progress**:
+Today I worked on the testimonial section and pricing section on the Omnifood website.
+
+[live](https://omnifood-sooty.vercel.app/)
+
+[source](https://github.com/samirzjadhav/omnifood)
