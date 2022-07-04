@@ -410,3 +410,8 @@ Today I worked on the testimonial section and pricing section on the Omnifood we
 [live](https://omnifood-sooty.vercel.app/)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 63: jule 4 2022, Monday
+
+**Today's Progress**:
+Today I worked on the plan details section and call to action section.
