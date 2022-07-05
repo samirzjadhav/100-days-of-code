@@ -415,3 +415,12 @@ Today I worked on the testimonial section and pricing section on the Omnifood we
 
 **Today's Progress**:
 Today I worked on the plan details section and call to action section.
+
+### Day 64: jule 5 2022, Tuesday
+
+**Today's Progress**:
+Today I worked on the footer section of the Omni-food website, tomorrow I will be working on making the code better, adding animations, and making it mobile responsive.
+
+[live](https://omnifood-sooty.vercel.app)
+
+[source](https://github.com/samirzjadhav/omnifood)
