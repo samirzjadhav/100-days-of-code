@@ -424,3 +424,12 @@ Today I worked on the footer section of the Omni-food website, tomorrow I will b
 [live](https://omnifood-sooty.vercel.app)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 65: jule 6 2022, Wednesday
+
+**Today's Progress**:
+Today I made the Omni-food project mobile and tablet responsive using media queries and responsive units.
+
+[live](https://omnifood-sooty.vercel.app)
+
+[source](https://github.com/samirzjadhav/omnifood)
