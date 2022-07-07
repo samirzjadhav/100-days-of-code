@@ -433,3 +433,12 @@ Today I made the Omni-food project mobile and tablet responsive using media quer
 [live](https://omnifood-sooty.vercel.app)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 66: jule 7 2022, Thursday
+
+**Today's Progress**:
+Today I worked on making the Omni-food project mobile and tablet responsive. I also worked on adding a navbar for mobile view, and used a lot of interesting properties like visibility, pointer even and opacity to hide the mobile navbar.
+
+[live](https://omnifood-sooty.vercel.app)
+
+[source](https://github.com/samirzjadhav/omnifood)
