@@ -442,3 +442,11 @@ Today I worked on making the Omni-food project mobile and tablet responsive. I a
 [live](https://omnifood-sooty.vercel.app)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 67: jule 8 2022, Friday
+
+**Today's Progress**:
+Today was exciting, @Amol_shelke09 has done a great job already on the valorant landing page, but I saw some improvements that could be made to the styles to which I contributed :D
+
+[live](http://valorant-agents-pearl.vercel.app/)
+[source](https://github.com/AmolShelke2/Valorant_agents)
