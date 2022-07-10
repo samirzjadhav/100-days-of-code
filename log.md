@@ -460,3 +460,12 @@ Today I contributed a few more things to make the volarant landing page responsi
 [live](http://valorant-agents-pearl.vercel.app/)
 
 [source](https://github.com/AmolShelke2/Valorant_agents)
+
+### Day 69: jule 10 2022, Sunday
+
+**Today's Progress**:
+Day 69 of #100DaysOfCode. Today I contributed a few more things to make the volarant landing page responsive. and styled agent section and abb new animation on agent image and title and description.
+
+[live](http://valorant-agents-pearl.vercel.app/)
+
+[source](https://github.com/AmolShelke2/Valorant_agents)
