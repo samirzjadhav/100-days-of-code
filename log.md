@@ -464,7 +464,7 @@ Today I contributed a few more things to make the volarant landing page responsi
 ### Day 69: jule 10 2022, Sunday
 
 **Today's Progress**:
-Day 69 of #100DaysOfCode. Today I contributed a few more things to make the volarant landing page responsive. and styled agent section and abb new animation on agent image and title and description.
+Today I contributed a few more Today I contributed a few more things to make the volarant landing page responsive. I also changed agent section styles, added animations, and tweaked some colors to match the official version.
 
 [live](http://valorant-agents-pearl.vercel.app/)
 
