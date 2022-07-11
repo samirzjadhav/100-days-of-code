@@ -469,3 +469,12 @@ Today I contributed a few more Today I contributed a few more things to make the
 [live](http://valorant-agents-pearl.vercel.app/)
 
 [source](https://github.com/AmolShelke2/Valorant_agents)
+
+### Day 70: jule 11 2022, Monday
+
+**Today's Progress**:
+Today I completed working on the Omnifood website and made it fully responsive on tablets and mobiles. Also added a navbar on mobile.
+
+[live](https://omnifood-sooty.vercel.app/)
+
+[source](https://github.com/samirzjadhav/omnifood)
