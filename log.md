@@ -486,3 +486,7 @@ Today I completed working on the Omnifood website and made it fully responsive o
 [live](https://omnifood-sooty.vercel.app/)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 72: jule 14 2022, Thursday
+
+**Today's Progress**: Today I started learning Javascript, I learned about variables, data types, consoles, alerts, and various ways to declare variables.
