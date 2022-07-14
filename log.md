@@ -478,3 +478,11 @@ Today I completed working on the Omnifood website and made it fully responsive o
 [live](https://omnifood-sooty.vercel.app/)
 
 [source](https://github.com/samirzjadhav/omnifood)
+
+### Day 71: jule 12 2022, Tuesday
+
+**Today's Progress**: Today I finally completed the Omni food project I worked on some final touchups and fixed some issues with the mobile navbar. I will start to learn Tailwindcss in the upcoming days.
+
+[live](https://omnifood-sooty.vercel.app/)
+
+[source](https://github.com/samirzjadhav/omnifood)
