@@ -490,3 +490,8 @@ Today I completed working on the Omnifood website and made it fully responsive o
 ### Day 72: jule 14 2022, Thursday
 
 **Today's Progress**: Today I started learning Javascript, I learned about variables, data types, consoles, alerts, and various ways to declare variables.
+
+### Day 73: jule 15 2022, Friday
+
+**Today's Progress**: Today I learned about various ways to declare variables using let, const, or var.
+I also learned the difference between null and undefined.
