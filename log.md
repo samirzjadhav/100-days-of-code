@@ -495,3 +495,7 @@ Today I completed working on the Omnifood website and made it fully responsive o
 
 **Today's Progress**: Today I learned about various ways to declare variables using let, const, or var.
 I also learned the difference between null and undefined.
+
+### Day 74: jule 16 2022, Saturday
+
+**Today's Progress**: Today I learned about javascript template string literals and conditionals.
