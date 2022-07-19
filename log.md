@@ -499,3 +499,10 @@ I also learned the difference between null and undefined.
 ### Day 74: jule 16 2022, Saturday
 
 **Today's Progress**: Today I learned about javascript template string literals and conditionals.
+
+### Day 75: jule 17 2022, Sunday
+
+**Today's Progress**:
+Today I worked on the portfolio page to improve a few things and added images and descriptions.
+
+On the javascript side, I learned about type conversion and type coercion.
