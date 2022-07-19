@@ -509,3 +509,7 @@ On the javascript side, I learned about type conversion and type coercion.
 ### Day 76: jule 18 2022, Monday
 
 **Today's Progress**: Today I learned about truthy and falsy values, equality, and logical operators.
+
+### Day 77: jule 19 2022, Tuesday
+
+**Today's Progress**: Today I learned about the switch statement, and ternary operator and solved some challenges.
