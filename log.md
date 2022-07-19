@@ -502,7 +502,10 @@ I also learned the difference between null and undefined.
 
 ### Day 75: jule 17 2022, Sunday
 
-**Today's Progress**:
-Today I worked on the portfolio page to improve a few things and added images and descriptions.
+**Today's Progress**: Today I worked on the portfolio page to improve a few things and added images and descriptions.
 
 On the javascript side, I learned about type conversion and type coercion.
+
+### Day 76: jule 18 2022, Monday
+
+**Today's Progress**: Today I learned about truthy and falsy values, equality, and logical operators.
