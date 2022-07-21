@@ -513,3 +513,8 @@ On the javascript side, I learned about type conversion and type coercion.
 ### Day 77: jule 19 2022, Tuesday
 
 **Today's Progress**: Today I learned about the switch statement, and ternary operator and solved some challenges.
+
+### Day 78/79 : jule 20/21 2022, Thursday
+
+**Today's Progress**: .Today I learned about the strict mode in javascript, functions and arrow functions, and functions calling other functions.
+I also completed a few challenges on the above topic.
