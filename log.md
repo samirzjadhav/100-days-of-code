@@ -518,3 +518,7 @@ On the javascript side, I learned about type conversion and type coercion.
 
 **Today's Progress**: .Today I learned about the strict mode in javascript, functions and arrow functions, and functions calling other functions.
 I also completed a few challenges on the above topic.
+
+### Day 80 : jule 22 2022, Friday
+
+**Today's Progress**: Today I learned about array and object data types in javascript.
