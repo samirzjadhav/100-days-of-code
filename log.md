@@ -522,3 +522,7 @@ I also completed a few challenges on the above topic.
 ### Day 80 : jule 22 2022, Friday
 
 **Today's Progress**: Today I learned about array and object data types in javascript.
+
+### Day 81 : jule 23 2022, Saturday
+
+**Today's Progress**: Today I learned about the objects, dot, bracket notation, and object methods and completed some challenges.
