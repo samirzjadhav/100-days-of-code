@@ -526,3 +526,9 @@ I also completed a few challenges on the above topic.
 ### Day 81 : jule 23 2022, Saturday
 
 **Today's Progress**: Today I learned about the objects, dot, bracket notation, and object methods and completed some challenges.
+
+### Day 82 : jule 24 2022, Sunday
+
+**Today's Progress**:
+Today I learned about loops, looping over arrays and objects, I also learned about the break and continue keywords.<br>
+I also completed a few challenges on the above topics.
