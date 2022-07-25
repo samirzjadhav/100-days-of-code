@@ -532,3 +532,8 @@ I also completed a few challenges on the above topic.
 **Today's Progress**:
 Today I learned about loops, looping over arrays and objects, I also learned about the break and continue keywords.<br>
 I also completed a few challenges on the above topics.
+
+### Day 83 : jule 25 2022, Monday
+
+**Today's Progress**: Today I learned about while loops, looping backward, and nested loops.
+I also completed a few challenges on the above topics
