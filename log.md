@@ -537,3 +537,8 @@ I also completed a few challenges on the above topics.
 
 **Today's Progress**: Today I learned about while loops, looping backward, and nested loops.
 I also completed a few challenges on the above topics
+
+### Day 84 : jule 26 2022, Tuesday
+
+**Today's Progress**:Today I revised everything about javascript till now, I also solved all the previous challenges.
+I also learned about strict mode and Math utilities.
