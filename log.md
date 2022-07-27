@@ -540,5 +540,10 @@ I also completed a few challenges on the above topics
 
 ### Day 84 : jule 26 2022, Tuesday
 
-**Today's Progress**:Today I revised everything about javascript till now, I also solved all the previous challenges.
+**Today's Progress**: Today I revised everything about javascript till now, I also solved all the previous challenges.
 I also learned about strict mode and Math utilities.
+
+### Day 85 : jule 27 2022, Wednesday
+
+**Today's Progress**: Today I started working on my very first javascript project to guess numbers. I also learned about selecting and manipulating elements using javascript.
+I also learned about debugging with console and breakpoint debugger.
