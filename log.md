@@ -547,3 +547,7 @@ I also learned about strict mode and Math utilities.
 
 **Today's Progress**: Today I started working on my very first javascript project to guess numbers. I also learned about selecting and manipulating elements using javascript.
 I also learned about debugging with console and breakpoint debugger.
+
+### Day 86 : jule 28 2022, Thursday
+
+**Today's Progress**: Today I working on a javascript project to guess a number, I also learned how to manipulate CSS using javascript.
