@@ -551,3 +551,8 @@ I also learned about debugging with console and breakpoint debugger.
 ### Day 86 : jule 28 2022, Thursday
 
 **Today's Progress**: Today I working on a javascript project to guess a number, I also learned how to manipulate CSS using javascript.
+
+### Day 87 : jule 29 2022, Friday
+
+**Today's Progress**:
+Today I created modal and made it functional using javascript. I learned about event listeners, classlists and adding and removing properties on elements using javascript.
