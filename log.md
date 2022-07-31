@@ -556,3 +556,8 @@ I also learned about debugging with console and breakpoint debugger.
 
 **Today's Progress**:
 Today I created modal and made it functional using javascript. I learned about event listeners, classlists and adding and removing properties on elements using javascript.
+
+### Day 88 : jule 31 2022, Sunday
+
+**Today's Progress**:
+I started working on the pig game website and also learned about the keypress event and how to manipulate images.
