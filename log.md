@@ -562,7 +562,11 @@ Today I created modal and made it functional using javascript. I learned about e
 **Today's Progress**:
 I started working on the pig game website and also learned about the keypress event and how to manipulate images.
 
-### Day 89 : August 1 2022, Sunday
+### Day 89 : August 1 2022, Monnday
 
 **Today's Progress**:
 Today I continued working on the pig game. I added functionality to roll dice, hold scores, taking turns for active players.
+
+### Day 90 : August 2 2022, Tuesday
+
+**Today's Progress**: Today I add the ability to hold score and resetting game for the pig game I'm building in JavaScript.
