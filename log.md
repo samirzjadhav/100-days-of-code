@@ -570,3 +570,11 @@ Today I continued working on the pig game. I added functionality to roll dice, h
 ### Day 90 : August 2 2022, Tuesday
 
 **Today's Progress**: Today I add the ability to hold score and resetting game for the pig game I'm building in JavaScript.
+
+### Day 91 : August 3 2022, Wednesday
+
+**Today's Progress**: Today I finish pig game and final touch up and I also learned scopes in JavaScript. I also learned about how javascript runs in the browser.
+
+[live](https://pig-game-kohl.vercel.app)
+
+[source](https://github.com/samirzjadhav/pig-game)
