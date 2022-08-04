@@ -578,3 +578,8 @@ Today I continued working on the pig game. I added functionality to roll dice, h
 [live](https://pig-game-kohl.vercel.app)
 
 [source](https://github.com/samirzjadhav/pig-game)
+
+### Day 92 : August 4 2022, Thursday
+
+**Today's Progress**:
+Today I learned about hoisting and temporal dead zone, scoping.
