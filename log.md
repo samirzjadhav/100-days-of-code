@@ -583,3 +583,7 @@ Today I continued working on the pig game. I added functionality to roll dice, h
 
 **Today's Progress**:
 Today I learned about hoisting and temporal dead zone, scoping.
+
+### Day 93 : August 6 2022, Saturday
+
+**Today's Progress**: Today I learned about this keyword, borrowed method, and the difference between arrow function and function expression.
