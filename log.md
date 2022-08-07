@@ -587,3 +587,7 @@ Today I learned about hoisting and temporal dead zone, scoping.
 ### Day 93 : August 6 2022, Saturday
 
 **Today's Progress**: Today I learned about this keyword, borrowed method, and the difference between arrow function and function expression.
+
+### Day 94 : August 7 2022, Sunday
+
+**Today's Progress**: Today I learned argument keyword, primitives types, objects, reference types, and cropping objects.
