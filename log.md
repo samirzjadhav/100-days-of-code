@@ -591,3 +591,7 @@ Today I learned about hoisting and temporal dead zone, scoping.
 ### Day 94 : August 7 2022, Sunday
 
 **Today's Progress**: Today I learned argument keyword, primitives types, objects, reference types, and cropping objects.
+
+### Day 95 : August 8 2022, Monday
+
+**Today's Progress**: Today I learned about object destructuring, array destructuring, nested object, array, mutating the value, switching variables, and how to create provide value.
