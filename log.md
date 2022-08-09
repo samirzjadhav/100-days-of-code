@@ -595,3 +595,7 @@ Today I learned about hoisting and temporal dead zone, scoping.
 ### Day 95 : August 8 2022, Monday
 
 **Today's Progress**: Today I learned about object destructuring, array destructuring, nested object, array, mutating the value, switching variables, and how to create provide value.
+
+### Day 96 : August 9 2022, Tuesday
+
+**Today's Progress**: .Today I learned about JavaScript spread and rest operator, I also learned how to concatenate arrays using the spread operator and clone objects.
