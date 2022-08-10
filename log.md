@@ -599,3 +599,7 @@ Today I learned about hoisting and temporal dead zone, scoping.
 ### Day 96 : August 9 2022, Tuesday
 
 **Today's Progress**: .Today I learned about JavaScript spread and rest operator, I also learned how to concatenate arrays using the spread operator and clone objects.
+
+### Day 97 : August 10 2022, Wednesday
+
+**Today's Progress**: Today I learned about rest patterns and parameters, short-circuiting, or, and operator and nullish coalescing operator
