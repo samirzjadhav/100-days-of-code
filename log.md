@@ -603,3 +603,8 @@ Today I learned about hoisting and temporal dead zone, scoping.
 ### Day 97 : August 10 2022, Wednesday
 
 **Today's Progress**: Today I learned about rest patterns and parameters, short-circuiting, or, and operator and nullish coalescing operator
+
+### Day 98 : August 11 2022, Thursday
+
+**Today's Progress**: Today I learned the logical assignment operator and, or, nullish assignment operator.
+I also completed some challenges.
