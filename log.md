@@ -608,3 +608,8 @@ Today I learned about hoisting and temporal dead zone, scoping.
 
 **Today's Progress**: Today I learned the logical assignment operator and, or, nullish assignment operator.
 I also completed some challenges.
+
+### Day 99 : August 12 2022, Saturday
+
+**Today's Progress**:Today I learned about various ways to loop over arrays and objects.
+I also completed some challenges.
